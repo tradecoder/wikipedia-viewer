@@ -1,0 +1,70 @@
+body {
+  background-color: #e7ffd9;
+  background-image: url("https://www.transparenttextures.com/patterns/skulls.png");
+}
+.input-search {
+  width: 50%;
+  box-sizing: border-box;
+  border: 1px solid gray;
+  border-radius: 10px;
+  font-size: 20px;
+  background-color: white;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Wikipedia_New_page_reviewer.svg/300px-Wikipedia_New_page_reviewer.svg.png");
+  background-size: 50px, 50px;
+  background-position: ;
+  background-repeat: no-repeat;
+  padding: 10px 10px 10px 60px;
+  -webkit-transition: width 0.3s ease-in-out;
+  transition: width 0.3s ease-in-out;
+}
+
+input[type="txt"]:focus {
+  width: 75%;
+}
+
+.div-search {
+  margin-top: 100px;
+}
+
+.search-icon {
+  height: 50px;
+  width: 50px;
+  background-color: ;
+  border-radius: 10px;
+  padding-bottom: ;
+}
+
+iframe {
+  border: none;
+}
+.bb {
+  background-color: white;
+}
+.inp {
+  background-color: #f5f5ef;
+}
+.ground {
+  text-align: left;
+  margin-top: 12%;
+}
+b {
+  font-size: 18px;
+  color: blue;
+}
+a {
+  color: black;
+}
+a:hover {
+  color: green;
+}
+.top {
+  background-color: #d1f2eb;
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-let: -1px;
+  margin-right: -1px;
+  padding-bottom: 20px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
